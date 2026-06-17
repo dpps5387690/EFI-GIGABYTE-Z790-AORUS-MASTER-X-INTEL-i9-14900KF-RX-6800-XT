@@ -11,16 +11,16 @@
 **Release date**: 17/06/2026
 
 # Hackintosh Specifications
-|Item|Description|Status|
-|-|:-------:|-|
+|Item|Description|
+|-|:-------:|
 |Motherboard|Gigabyte Z790 Aorus Master X|
 |BIOS|F12a|
 |Processor|Intel Core i9-14900K|
 |Memory|2x 32Gb DDR5|
-|dGPU|AMD Radeon RX 6800 XT|OK|
-|Audio Codec|Realtek ALC1220|OK|
-|Ethernet|Marvell AQtion AQC113C 10GbE|Fail hang|
-|Ethernet|PCI RTL8111e Ethernet|OK|
+|dGPU|AMD Radeon RX 6800 XT|
+|Audio Codec|Realtek ALC1220|
+|Ethernet|Marvell AQtion AQC113C 10GbE|
+|Ethernet|PCI RTL8111e Ethernet|
 |Storage|GIGABYTE AG450E1TB|
 
 # BIOS Setting
