@@ -6,11 +6,11 @@
 <br>
 **Current OpenCore**: 1.0.7
 <br>
-**Release date**: 18/12/2025
+**Release date**: 17/06/2026
 
 # Hackintosh Specifications
-|Item|Description|
-|-|:-------:|
+|Item|Description|Status|
+|-|:-------:|-|
 |Motherboard|Gigabyte Z790 Aorus Master X|
 |BIOS|F12a|
 |Processador|Intel Core i9-14900KF|
@@ -22,18 +22,23 @@
 |Storage|GIGABYTE AG450E1TB|
 
 # BIOS Setting
+|Section|Choose|
+|-|:-------:|
 |Secure Boot|Disabled|
 |Internal Graphics|Disabled|
 |Re-Size BAR Support|Disabled|
 |Intel Platform Trust Technology(PTT)|Disabled|
 |CFG Lock|Disabled|
-|OpenCore|BootInstall_X64.tool|
+
 
 # Tool
+|Name|Description|
+|-|:-------:|
 |SSDTTime|Get Patch ACPI|
 |USBToolBox|Get USB Mapping|
 |Mist|Download macOS to Applications File|
 |GenSMBIOS|Generate SMBIOS Information|
+|OpenCore|BootInstall_X64.tool|
 
 ## Step 1 - Download macOS Installer
 
