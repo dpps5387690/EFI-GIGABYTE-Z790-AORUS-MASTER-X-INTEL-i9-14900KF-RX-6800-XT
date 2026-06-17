@@ -15,7 +15,7 @@
 |-|:-------:|-|
 |Motherboard|Gigabyte Z790 Aorus Master X|
 |BIOS|F12a|
-|Processador|Intel Core i9-14900KF|
+|Processor|Intel Core i9-14900K|
 |Memory|2x 32Gb DDR5|
 |dGPU|AMD Radeon RX 6800 XT|OK|
 |Audio Codec|Realtek ALC1220|OK|
@@ -254,7 +254,6 @@ Intel Platform Trust Technology (PTT)
 XHCI Hand-off
 Above 4G Decoding
 Hyper-Threading
-EHCI Hand-off
 ```
 
 ### Optional
