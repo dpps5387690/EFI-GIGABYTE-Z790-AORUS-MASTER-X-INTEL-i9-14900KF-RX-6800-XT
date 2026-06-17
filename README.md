@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z790 Aorus Master X, Intel Core i9-14900K, AMD Radeon RX 6800 XT and PCI RTL8111e Ethernet
 
+<img width="2349" height="1395" alt="Geekvench - V6   Ai - Results" src="https://github.com/dpps5387690/EFI-GIGABYTE-Z790-AORUS-MASTER-X-INTEL-i9-14900KF-RX-6800-XT/blob/main/Geekbench6.png" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Tahoe (26.2)
