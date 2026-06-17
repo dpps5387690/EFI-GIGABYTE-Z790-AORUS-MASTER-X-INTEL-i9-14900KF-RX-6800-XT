@@ -254,13 +254,13 @@ Intel Platform Trust Technology (PTT)
 XHCI Hand-off
 Above 4G Decoding
 Hyper-Threading
+VT-d
 ```
 
 ### Optional
 
 ```text
 Resize BAR
-VT-d
 CFG Lock
 ```
 
