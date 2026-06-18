@@ -302,13 +302,13 @@ Erase the target SSD:
 |----------|----------|
 | Format | APFS |
 | Scheme | GUID Partition Map |
-| Name | OSX |
+| Name | Macintosh HD |
 
 Example:
 
 ```text
 Container
-└── OSX
+└── Macintosh HD
 ```
 
 ---
@@ -318,7 +318,7 @@ Container
 Select:
 
 ```text
-OSX
+Macintosh HD
 ```
 
 as the destination drive.
